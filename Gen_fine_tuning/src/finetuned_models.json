@@ -1,0 +1,17 @@
+{
+ 
+    "english": {
+        "Meta-Llama-3.1-8B-Instruct": "____",
+        "job_id_Meta-Llama-3.1-8B-Instruct": "____",
+        "Meta-Llama-3.1-70B-Instruct_e_-5": "___",
+        "job_id_Meta-Llama-3.1-70B-Instruct_e_-5": "__"
+        
+    },
+    "german": {
+        "Meta-Llama-3.1-8B-Instruct": "__",
+        "job_id_Meta-Llama-3.1-8B-Instruct": "__"
+    }
+
+    
+
+}

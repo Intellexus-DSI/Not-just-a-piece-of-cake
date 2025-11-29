@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Not-just-a-piece-of-cake",
+			"path": "../../../../Not-just-a-piece-of-cake"
+		},
+		{
+			"name": "probing",
+			"path": "../../probing"
+		},
+		{
+			"name": "encoder_fine_tuning",
+			"path": "../../encoder_fine_tuning"
+		},
+		{
+			"name": "src",
+			"path": "../../src"
+		},
+		{
+			"name": "gen_fine_tuning",
+			"path": ".."
+		},
+		{
+			"name": "in_context_learning",
+			"path": "../../in_context_learning"
+		}
+	],
+	"settings": {}
+}
